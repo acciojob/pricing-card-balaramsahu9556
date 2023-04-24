@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+div{
+	width:300px;
+	padding:20px;
+	text-align:center;
+	background-color:lightgray;
+	border-radius: 10px;
+	box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2);
+}
+a{
+	text-decoration:none;
+	color:white;
+}
+button{
+	background-color:indianred;
+	padding:10px;
+	border-radius:10px;
+	border:0;
+}
+h1{
+	font-size:40px;
+	padding:0px;
+}
